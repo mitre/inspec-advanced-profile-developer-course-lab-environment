@@ -1,6 +1,6 @@
 # inspec-advanced-profile-developer-course-lab-environment
 
-The InSpec Profile Developer Lab is a GitHub Codespaces environment that makes it quick and easy for you to start learning and working on your own InSpec profiles.
+The InSpec Advanced Profile Developer Lab is a GitHub Codespaces environment that makes it quick and easy for you to start learning and working on your own InSpec profiles.
 
 It is also a great quick and easy way to test and demonstrate what you have learned or collaborate with others to get help with what you are working on.
 ## Overview of the Lab
